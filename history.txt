@@ -1,0 +1,30 @@
+  518  cd terminal3
+  519  grep "France,2019,PHP" wilders.txt
+  520  grep "France,2019,PHP" wilder.txt > php_france_2019.txt
+  521  rm php_france_2019.txt
+  522  ls
+  523  grep "France,2019,PHP" wilder.txt > php_france_2019.txt
+  524  cd --
+  525  rm php_france_2019.txt
+  526  ls
+  527  ls
+  528  ls
+  529  cd 
+  530  cd terminal3
+  531  grep "France,2019,PHP" wilder.txt > php_france_2019.txt
+  532  ls
+  533  rm -r php_france_2019.txt
+  534  ls
+  535  grep "France,2019,PHP" wilder.txt > php_france_2019.txt
+  536  cd --
+  537  rm -r php_france_2019.txt
+  538  ls
+  539  cd terminal3
+  540   grep "France,2019,PHP" wilder.txt > php_france_2019.txt
+  541  grep "France,2019,PHP" wilders.txt > php_france_2019.txt
+  542  grep "JavaScript" wilders.txt
+  543  grep "JavaScript" wilders.txt | grep "Toulouse\|Biarritz"
+  544  grep "JavaScript" wildersTXT | grep "Toulouse\|Biarritz" > javascript_biarritz_toulouse.csv
+  545  grep "JavaScript" wilders.txt | grep "Toulouse\|Biarritz" > javascript_biarritz_toulouse.csv
+  546  history
+  547  history | tail -n 30 > history.txt
